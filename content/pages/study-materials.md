@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides outlines of the topics covered in each lecture
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

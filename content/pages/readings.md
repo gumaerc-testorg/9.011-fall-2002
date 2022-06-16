@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The readings listed in this section, which include both review readings
+  and articles from the primary literature, are the foundation of this course. Where
+  available, journal article abstracts from PubMed (an online database providing access
+  to citations from biomedial literature) are included.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

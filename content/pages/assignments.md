@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for the written assignments and presentations
+  required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
