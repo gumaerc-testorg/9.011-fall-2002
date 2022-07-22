@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides outlines of the topics covered in each lecture
+  of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 875f7dd0-5f85-b1a8-b2b6-1963c172e8c8
 ---
